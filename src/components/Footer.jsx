@@ -11,7 +11,7 @@ const Footer = () => {
     <a href="#" className="font-medium text-white">Privacy Policy</a>
     <a href="#" className="font-medium text-white">Terms & Conditions</a>
   </nav>
-  <p className="py-10 text-center text-gray-300">© 2022 Boleno | All Rights Reserved</p>
+  <p className="py-10 text-center text-gray-300">© 2024 Louis Cunningham | Portfolio Project</p>
 </footer>
 
     </>
